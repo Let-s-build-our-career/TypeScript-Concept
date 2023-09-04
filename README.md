@@ -1,13 +1,26 @@
 
 # TypeScript-Concept
 
+<details>
+<summary>Introduction to TypeScript</summary>
+
+#### 1. What is TypeScript?
+
 TypeScript is a programming language developed by microsoft and superset of JavaScript. When combined, they provide a powerful development environment for building robust and maintainable web applications.
-# Why TypeScript?
+
+#### 2. Advantages of TypeScript over JavaScript or Why TypeScript?
 
  * Adds static typing to JavaScript
  * It helps us to see bugs when writing codes; easy to find and fix bugs
  * Gives us auto suggestion
  * Provides us better documentation
+
+#### 3. Setting up the Development Environment
+</details>
+
+
+
+ 
 
 # Start React TypeScript Project
 
