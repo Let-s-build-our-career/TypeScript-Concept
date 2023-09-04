@@ -11,6 +11,9 @@ TypeScript is a programming language developed by microsoft and superset of Java
 
 # Start React TypeScript Project
 
+
+
+
 ## Installation
 
 Install my-project with npm
@@ -20,4 +23,28 @@ Install my-project with npm
   cd School-Management
   npm run dev
 ```
+
     
+## Usage/Examples
+
+```javascript
+import React from 'react';
+
+// Define the props interface for the component
+interface GreetingProps {
+  name: string;
+}
+
+// Define a functional component using an arrow function
+const Greeting: React.FC<GreetingProps> = ({ name }) => {
+  return (
+    <div>
+      <h1>Hello, {name}!</h1>
+      <p>This is a React functional component written in TypeScript.</p>
+    </div>
+  );
+};
+
+export default Greeting;
+```
+
