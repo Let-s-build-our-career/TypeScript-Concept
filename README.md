@@ -2,7 +2,7 @@
 # TypeScript-Concept
 
 <details>
-<summary>## Introduction to TypeScript</summary>
+<summary> Introduction to TypeScript</summary>
 
 #### 1. What is TypeScript?
 
@@ -22,7 +22,7 @@ TypeScript is a programming language developed by microsoft and superset of Java
 
  <details>
 <summary>
-## Start React TypeScript Project
+ Start React TypeScript Project
 </summary>
 
 ### Installation
